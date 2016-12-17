@@ -13,7 +13,7 @@ import scala.collection.Seq;
 import scala.collection.mutable.Buffer;
 
 @SuppressWarnings("all")
-public class Main {
+public class ProducerTest {
 
 	private final static String TOPIC = "test";
 	private static Producer<String, String> producer;
